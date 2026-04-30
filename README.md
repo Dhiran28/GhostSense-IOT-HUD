@@ -1,6 +1,7 @@
 # GhostSense – IoT XR Safety HUD
 
 Real-time IoT-powered XR HUD for gas and environmental safety with mock mode support for hardware-free demos.
+<img width="810" height="202" alt="image" src="https://github.com/user-attachments/assets/1eb8af17-df60-4cd5-9be2-3e299f4a915e" />
 
 ---
 
@@ -93,6 +94,8 @@ This project is fully usable without sensors.
 ---
 
 ### 🎯 What each option does
+<img width="452" height="311" alt="image" src="https://github.com/user-attachments/assets/fae7b968-4be8-40cb-bd7d-42c1a498f157" />
+
 
 #### Use Mock Data = ON
 
@@ -191,46 +194,6 @@ gasPPM < 500 → SAFE
 
 ---
 
-## 🛠️ How to Upload This Project to GitHub
-
-### 1. Create repository
-
-* Go to GitHub → New Repository
-* Name: GhostSense-IoT-HUD
-* Public
-
----
-
-### 2. Open terminal in project folder
-
-Go to your Unity project root (where Assets folder exists)
-
----
-
-### 3. Run commands
-
-git init
-git add .
-git commit -m "Initial commit - GhostSense IoT HUD"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/GhostSense-IoT-HUD.git
-git push -u origin main
-
----
-
-### 4. Add .gitignore (IMPORTANT)
-
-Create file `.gitignore` and add:
-
-Library/
-Temp/
-Obj/
-Build/
-Logs/
-UserSettings/
-
----
-
 ## 🎬 Project Vision (Hackathon Context)
 
 This project is part of a larger XR system inspired by the **Iron Man HUD concept**, where real-world sensor data is directly visualized in the user’s field of view.
@@ -261,9 +224,3 @@ The goal is to:
 * AI anomaly detection
 * Auto documentation system
 * Multi-user XR collaboration
-
----
-
-## 🧠 Tagline
-
-Turning invisible environmental data into real-time XR safety intelligence.
