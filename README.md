@@ -195,6 +195,7 @@ gasPPM < 500 → SAFE
 ---
 
 ## 🎬 Project Vision (Hackathon Context)
+<img width="400" height="711" alt="project_demo" src="https://github.com/user-attachments/assets/c4c0e5a9-83c7-4546-80a6-3785aa184b8e" />
 
 This project is part of a larger XR system inspired by the **Iron Man HUD concept**, where real-world sensor data is directly visualized in the user’s field of view.
 
